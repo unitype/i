@@ -1,0 +1,12 @@
+{
+  "name": "i/i",
+  "authors": [
+    {
+      "name": "Anton Komarev",
+      "email": "anton@komarev.com",
+      "homepage": "https://komarev.com",
+      "role": "Creator"
+    }
+  ],
+  "homepage": "https://github.com/unitype/i"
+}
